@@ -1,6 +1,6 @@
 :HL["/fusiomica-preview/_next/static/css/a305da5ef0297dff.css","style"]
-:HL["/fusiomica-preview/_next/static/css/d2f7b6ce8b3b5694.css","style"]
+:HL["/fusiomica-preview/_next/static/css/8b4e13cf5fe7197b.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"oc","k":"ai-protein-design","s":["_not-found","_global-error","pl","robots.txt","sitemap.xml"]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"(english)","h":131184,"c":"$Q2"}]]
-0:{"b":"aet8EAtqO5GuNTI-ckQ5q","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"ahC52GXS7B5TuxfQqYeg5","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
