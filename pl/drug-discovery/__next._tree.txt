@@ -1,6 +1,6 @@
-:HL["/fusiomica-preview/_next/static/css/a305da5ef0297dff.css","style"]
-:HL["/fusiomica-preview/_next/static/css/12a1f85d9f966601.css","style"]
+:HL["/fusiomica-preview/_next/static/css/c37bd818954cea49.css","style"]
+:HL["/fusiomica-preview/_next/static/css/a4a457e3892479ac.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"oc","k":"drug-discovery","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"pl","h":131184,"c":"$Q2"}]]
-0:{"b":"yKo2O_2Xm34eE5gUkvDYO","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"BuEc7MK2-kfj3aTn9dGI3","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
