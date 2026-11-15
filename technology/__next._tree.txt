@@ -1,6 +1,6 @@
-:HL["/fusiomica-preview/_next/static/css/c37bd818954cea49.css","style"]
-:HL["/fusiomica-preview/_next/static/css/a4a457e3892479ac.css","style"]
+:HL["/fusiomica-preview/_next/static/css/2214820a5d0c6d32.css","style"]
+:HL["/fusiomica-preview/_next/static/css/ab32228e9358090b.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"oc","k":"technology","s":["_not-found","_global-error","pl","robots.txt","sitemap.xml"]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"(english)","h":131184,"c":"$Q2"}]]
-0:{"b":"BuEc7MK2-kfj3aTn9dGI3","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"-1S-3SCqeZ6KmhzRHRjGY","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
