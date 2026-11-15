@@ -1,5 +1,5 @@
-:HL["/fusiomica-preview/_next/static/css/0042337da2070d5e.css","style"]
+:HL["/fusiomica-preview/_next/static/css/a305da5ef0297dff.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"oc","k":"team","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"pl","h":131184,"c":"$Q2"}]]
-0:{"b":"1d5I7AciMEi4mpvbphmjg","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"feLDerLiWqNWOo-1FcoVv","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
