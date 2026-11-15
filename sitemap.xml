@@ -15,6 +15,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>https://proxirx.github.io/fusiomica-preview/ai-protein-design/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://proxirx.github.io/fusiomica-preview/ai-protein-design/" />
+<xhtml:link rel="alternate" hreflang="pl" href="https://proxirx.github.io/fusiomica-preview/pl/ai-protein-design/" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://proxirx.github.io/fusiomica-preview/pl/ai-protein-design/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://proxirx.github.io/fusiomica-preview/ai-protein-design/" />
+<xhtml:link rel="alternate" hreflang="pl" href="https://proxirx.github.io/fusiomica-preview/pl/ai-protein-design/" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
 <loc>https://proxirx.github.io/fusiomica-preview/technology/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://proxirx.github.io/fusiomica-preview/technology/" />
 <xhtml:link rel="alternate" hreflang="pl" href="https://proxirx.github.io/fusiomica-preview/pl/technology/" />

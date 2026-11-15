@@ -1,0 +1,6 @@
+:HL["/fusiomica-preview/_next/static/css/a305da5ef0297dff.css","style"]
+:HL["/fusiomica-preview/_next/static/css/91ee9d7e8762c6c0.css","style"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"oc","k":"ai-protein-design","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"pl","h":131184,"c":"$Q2"}]]
+0:{"b":"MaQn7CDU5n7BFp3Jj9vde","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
