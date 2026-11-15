@@ -1,0 +1,5 @@
+:HL["/fusiomica-preview/_next/static/css/b425d62616cf388f.css","style"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"oc","k":"technology","s":["_not-found","_global-error","pl","robots.txt","sitemap.xml"]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"(english)","h":131184,"c":"$Q2"}]]
+0:{"b":"Ydlyb1GBg9kz4mpoDOZgm","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

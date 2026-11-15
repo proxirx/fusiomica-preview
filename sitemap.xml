@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+<loc>https://proxirx.github.io/fusiomica-preview/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://proxirx.github.io/fusiomica-preview/" />
+<xhtml:link rel="alternate" hreflang="pl" href="https://proxirx.github.io/fusiomica-preview/pl/" />
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://proxirx.github.io/fusiomica-preview/pl/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://proxirx.github.io/fusiomica-preview/" />
+<xhtml:link rel="alternate" hreflang="pl" href="https://proxirx.github.io/fusiomica-preview/pl/" />
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://proxirx.github.io/fusiomica-preview/technology/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://proxirx.github.io/fusiomica-preview/technology/" />
+<xhtml:link rel="alternate" hreflang="pl" href="https://proxirx.github.io/fusiomica-preview/pl/technology/" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://proxirx.github.io/fusiomica-preview/pl/technology/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://proxirx.github.io/fusiomica-preview/technology/" />
+<xhtml:link rel="alternate" hreflang="pl" href="https://proxirx.github.io/fusiomica-preview/pl/technology/" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://proxirx.github.io/fusiomica-preview/drug-discovery/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://proxirx.github.io/fusiomica-preview/drug-discovery/" />
+<xhtml:link rel="alternate" hreflang="pl" href="https://proxirx.github.io/fusiomica-preview/pl/drug-discovery/" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://proxirx.github.io/fusiomica-preview/pl/drug-discovery/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://proxirx.github.io/fusiomica-preview/drug-discovery/" />
+<xhtml:link rel="alternate" hreflang="pl" href="https://proxirx.github.io/fusiomica-preview/pl/drug-discovery/" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://proxirx.github.io/fusiomica-preview/team/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://proxirx.github.io/fusiomica-preview/team/" />
+<xhtml:link rel="alternate" hreflang="pl" href="https://proxirx.github.io/fusiomica-preview/pl/team/" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://proxirx.github.io/fusiomica-preview/pl/team/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://proxirx.github.io/fusiomica-preview/team/" />
+<xhtml:link rel="alternate" hreflang="pl" href="https://proxirx.github.io/fusiomica-preview/pl/team/" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://proxirx.github.io/fusiomica-preview/eu-funded-projects/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://proxirx.github.io/fusiomica-preview/eu-funded-projects/" />
+<xhtml:link rel="alternate" hreflang="pl" href="https://proxirx.github.io/fusiomica-preview/pl/eu-funded-projects/" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://proxirx.github.io/fusiomica-preview/pl/eu-funded-projects/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://proxirx.github.io/fusiomica-preview/eu-funded-projects/" />
+<xhtml:link rel="alternate" hreflang="pl" href="https://proxirx.github.io/fusiomica-preview/pl/eu-funded-projects/" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://proxirx.github.io/fusiomica-preview/contact/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://proxirx.github.io/fusiomica-preview/contact/" />
+<xhtml:link rel="alternate" hreflang="pl" href="https://proxirx.github.io/fusiomica-preview/pl/contact/" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://proxirx.github.io/fusiomica-preview/pl/contact/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://proxirx.github.io/fusiomica-preview/contact/" />
+<xhtml:link rel="alternate" hreflang="pl" href="https://proxirx.github.io/fusiomica-preview/pl/contact/" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+</urlset>
