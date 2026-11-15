@@ -1,6 +1,6 @@
 :HL["/fusiomica-preview/_next/static/css/a305da5ef0297dff.css","style"]
-:HL["/fusiomica-preview/_next/static/css/42c4528a8878769b.css","style"]
+:HL["/fusiomica-preview/_next/static/css/ce150497ad776f1d.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"oc","k":"","s":["_not-found","_global-error","pl","robots.txt","sitemap.xml"]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"(english)","h":131184,"c":"$Q2"}]]
-0:{"b":"JGXJx9hY3VwPnpKNKfkEk","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"7tHm_XD3kVGVBhY78iLIW","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
