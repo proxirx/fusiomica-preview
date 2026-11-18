@@ -1,6 +1,6 @@
-:HL["/fusiomica-preview/_next/static/css/3322989d242ee4c3.css","style"]
+:HL["/fusiomica-preview/_next/static/css/d9c579c2eee0dccc.css","style"]
 :HL["/fusiomica-preview/_next/static/css/ae1dd2ace837bd87.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"oc","k":"eu-funded-projects","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"pl","h":131184,"c":"$Q2"}]]
-0:{"b":"gmBl-CaLWRoMe9HvrTghy","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"_mBOzbGvA6OFXMGF9EUm2","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
