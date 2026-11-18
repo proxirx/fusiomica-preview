@@ -3,4 +3,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"oc","k":"ai-protein-design","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"pl","h":131184,"c":"$Q2"}]]
-0:{"b":"7h50Nmf7C089mrbYVYc53","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"sB5MWXWdQfFYAT5bBxj0l","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
